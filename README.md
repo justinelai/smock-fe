@@ -1,1 +1,1 @@
-# smock-fe
+There's nothing to see here!
